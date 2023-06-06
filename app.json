@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "MyWords",
+    "slug": "MyWords",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/appicon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/appicon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FF6347"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.keldryn.MyWords"
+    },
+    "android": {
+      "package": "com.keldryn.MyWords",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/appicon.png",
+        "backgroundColor": "#FF6347"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5014f0f8-9ae5-4ad8-bdd8-7be03cc17e84"
+      }
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "703676611348",
+    "project_id": "mywords-6532b",
+    "storage_bucket": "mywords-6532b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703676611348:android:986b99989f9a941343e001",
+        "android_client_info": {
+          "package_name": "com.keldryn.MyWords"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703676611348-gao5kl4ebt3e5c263v5q6c531mlpttmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh_HfVPUQpaFOdKDIUP7Xr_w-B8qT3vno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703676611348-gao5kl4ebt3e5c263v5q6c531mlpttmq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
